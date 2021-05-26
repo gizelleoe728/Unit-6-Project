@@ -1,0 +1,374 @@
+.part-one {
+    text-align: center;
+    background-color:#ff9900;
+}
+.pick-player {
+    font-size:30px;
+    color:#e60000;
+    border: 5px hidden;
+    padding:10px;
+    margin: 25px;
+}
+.play-pick-img {
+    border: 5px hidden;
+    padding: 5px;
+    margin: 25px;
+    width: 600px;
+    height: 450px;
+}
+.tobyb {
+    font-size: 16px;
+    background-color: #00cc00;
+    padding: 5px;
+    margin:15px;
+}
+.tommyb {
+    font-size: 16px;
+    background-color: #ff0000;
+     padding: 5px;
+    margin:15px;
+}
+.player-button {
+    border: 5px hidden;
+    padding: 5px;
+    margin:10px;
+}
+
+
+.toby-sele {
+ border: 5px hidden;
+    margin: 10px;
+    padding: 10px;
+    background-color: #33cc33;
+    border-radius: 30px;
+    text-align: center;
+}
+.pick-toby {
+font-size: 20px;
+    font-family: 'DotGothic16', sans-serif;
+}
+.part-two-img-toby {
+    width: 236px;
+    height:236px;
+    border: black solid 5px;
+}
+.tommy-sele {
+     border: 5px hidden;
+    margin: 10px;
+    padding: 10px;
+    background-color: #ff3300;
+    border-radius: 30px;
+    text-align: center;
+}
+.pick-tommy {
+    font-size: 20px;
+    font-family: 'DotGothic16', sans-serif;
+}
+.part-two-img-tommy {
+    width: 236px;
+       height: 236px;
+    border: black solid 5px;
+}
+.begin {
+   font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    border: 5px hidden;
+    margin: 15px;
+    padding: 10px;
+}
+.begin-button {
+   font-family: 'Roboto', sans-serif;
+   font-size: 15px;
+    border: 5px hidden;
+    margin: 15px;
+    padding: 10px;
+}
+.b-b {
+    border: 5px hidden;
+    margin: 15px;
+    padding: 10px;
+    background-color:#00e600;
+    border-radius: 30px;
+}
+
+
+
+.part-three-toby {
+    border: 5px hidden;
+    margin: 10px;
+    padding: 15px;
+    text-align:center;
+    background-color: #6699ff;
+}
+.view-toby {
+     border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    font-size: 25px;
+}
+.part-three-tommy {
+     border: 5px hidden;
+    margin: 10px;
+    padding: 20px;
+    background-color: #6699ff;
+        text-align:center;
+}
+.view-tommy {
+     border: 5px solid black;
+    margin: 10px;
+    padding: 20px;
+     background-color: white;
+     font-size: 25px;
+}
+.part-three-img {
+    height:236px;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 20px;
+     background-color: white;
+    
+}
+.part-three-button {
+     border: 5px hidden;
+    margin: 10px;
+    padding: 20px;
+        text-align:center;
+     background-color: #6699ff;
+}
+.part-three-yes{
+     border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+     font-size: 15px;
+}
+.part-three-no{
+     border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+     font-size: 15px;
+}
+
+
+
+.part-four-yes {
+    border: 5px hidden;
+    margin: 5px;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    background-color: #99ccff;
+}
+.part-four-agree {
+     border: 5px inset #3333cc;
+    margin: 13px;
+    padding: 10px;
+    color: #009933;
+}
+.part-four-button1 {
+     border: 5px groove #cc00cc;
+    margin: 13px;
+    padding: 10px;
+    color:#cc0000;
+}
+.part-four-img {
+     border: 5px hidden;
+    margin: 13px;
+    padding: 10px;
+    width: 500px;
+}
+.part-four-talk1 {
+     border: 5px outset #6600cc;
+    margin: 13px;
+    padding: 10px;
+}
+.part-four-no {
+     border: 5px hidden;
+    margin: 13px;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color:#476b6b;
+    text-align: center;
+    background-color: #99ccff;
+}
+.part-four-spoke {
+     border: 5px inset;
+    margin: 13px;
+    padding: 10px;
+}
+.part-four-button2 {
+     border: 5px groove #660033;
+    margin: 13px;
+    padding: 10px;
+}
+
+.part-five {
+    background-color: #ff9966;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.part-five-mountain {
+    border:5px inset #006666;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: white;
+     text-align: center;
+}
+.part-five-button {
+     border:5px outset #336600;
+    margin: 5px;
+    padding: 10px;
+     border-radius: 20px;
+    background-color: white;
+   text-align: center;
+}
+.part-five-img {
+     border:5px solid black;
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+}
+
+
+.part-six-spoke{
+ background-color:#ffffd1;
+    border: 3px hidden;
+    margin: 10px;
+    padding: 10px;
+}
+.part-six-top {
+    border: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-color: #bffcc6;
+    border-radius:6px;
+    color:#7a66ff;
+    text-align: center;
+}
+.part-six-toby {
+    border: 3px hidden;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color:#ffffd1;
+}
+.part-six-tpartner {
+    border: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+     background-color: #aff8db;
+     border-radius:6px;
+    color:#7a66ff;
+}
+.part-six-tommy {
+    border: 5px hidden;
+    margin: 10px;
+    padding: 10px;
+    color:#7a66ff;
+    text-align: center;
+    background-color:#ffffd1;
+}
+.part-six-topartner {
+    border: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-color: #c4faf8;
+     border-radius:6px;
+}
+.part-six-tbutton {
+    border: 5px hidden;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color:#ffffd1;
+}
+.part-six-tobutton {
+    border: 5px hidden;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color:#ffffd1;
+}
+.part-six-button-no {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 7px;
+    background-color:#ffabab;
+     border-radius:6px;
+}
+.part-six-button-yes {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 7px;
+    background-color: #dbffd6;
+     border-radius:6px;
+}
+
+
+.part-seven-toby {
+    text-align:center;
+    border: 5px hidden;
+    margin:5px;
+    padding: 5px;
+    background-color:#BC8F8F;
+}
+.part-seven-talk-t {
+    border: 3px black solid;
+    margin:5px;
+    padding: 5px;
+    background-color:#EEE9E9;
+    color:#802A2A;
+}
+.part-seven-tommy {
+    text-align:center;
+    border: 5px hidden;
+    margin:5px;
+    padding: 5px;
+    background-color:#BC8F8F;
+}
+.part-seven-talk-to {
+    border: 3px black solid;
+    margin:5px;
+    padding: 5px;
+    background-color:#EEE9E9;
+    color:#8E2323	;
+}
+.part-seven-img2 {
+    text-align: center;
+    border: 5px hidden;
+    margin:5px;
+    padding: 5px;
+    background-color:#BC8F8F;
+}
+.part-seven-img {
+border: 5px groove #8B0000	;
+    margin:5px;
+    padding: 5px;
+    background-color:#EEE9E9;
+}
+.part-seven-button {
+    text-align:center;
+    border: 3px black solid;
+    margin:5px;
+    padding: 5px;
+    background-color:#BC8F8F;
+    color:#EEE9E9;
+}
+
+.part-eight {
+    text-align:center;
+    border:5px hidden;
+    margin:5px;
+    padding: 5px;
+    background-color:#473C8B;
+}
+.part-eight-talk {
+    border:5px inset #838EDE	;
+    margin:5px;
+    padding: 5px;
+     color:#236B8E;
+    background-color: #FFE1FF;
+}
